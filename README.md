@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+- installation : [info.md](https://github.com/meet41/AWT_8/blob/main/info.md)
+  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
